@@ -18,4 +18,4 @@ Bold and italics: **bold** and *italics*
 
 Making some new changes.
 
-New change   
+Making some new changes.  Edited    
