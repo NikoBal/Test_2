@@ -1,0 +1,27 @@
+   305 	15:07  	git --version
+   306 	10:30  	git config --global user.name "Nikolay"
+   307 	10:30  	git config --global user.email nvb5011@psu.edu
+   308 	10:34  	git --help
+   309 	10:35  	git init --help
+   310 	10:43  	mkdir -p git_tutorial/helloworld
+   312 	10:43  	git init
+   313 	10:44  	ls -la
+   314 	10:45  	touch README.md
+   315 	10:56  	gedit README.md &
+   316 	11:10  	git commit
+   317 	11:12  	git commit README.md
+   318 	11:15  	git commit -v
+   319 	11:23  	vim README.md
+   320 	11:24  	git dif
+   321 	11:25  	git add README.md
+   322 	11:27  	git commit -v README.md
+   323 	11:27  	git diff
+   324 	11:27  	git diff --cached
+   325 	11:29  	git show 76c99678ecc42ffd99ed8a7daa54989aa72b16ae
+   326 	11:29  	git checkout 76c99678ecc42ffd99ed8a7daa54989aa72b16ae
+   327 	11:33  	git checkout master
+   328 	11:33  	cat README.md
+   329 	11:35  	git show
+   330 	11:37  	vi README.md
+		git log
+		git status
